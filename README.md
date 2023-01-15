@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Edward</h1>
-<h3 align="center">I am a self-taught student and I find myself learning the technologies necessary to enter the world of cybersecurity.</h3>
+<h3 align="center">I am a self-taught student and I am learning the necessary technologies to enter the world of cybersecurity.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=byedwarddev&label=Profile%20views&color=0e75b6&style=flat" alt="byedwarddev" /> </p>
 
